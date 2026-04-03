@@ -1,2 +1,1 @@
-
-Edited text file v2 for merge conflict
+Edited file v2 and then some.
