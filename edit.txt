@@ -1,1 +1,2 @@
 We are introducing new bug with V1.
+Fixed bug with V2.
