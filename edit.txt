@@ -1,1 +1,2 @@
-Edited text file v2 for merge conflict
+We are introducing new bug with V1.
+Fixed bug with V2.
